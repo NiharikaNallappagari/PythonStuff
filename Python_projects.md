@@ -3,7 +3,7 @@
         2. https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
         
         
-** DataStructures:**
+**DataStructures:**
         1. List-Array
         2. LinkedList
         3. Stack
