@@ -1,6 +1,6 @@
 **Useful python cheatsheets**:
-        https://www.pythoncheatsheet.org/
-        https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+        1. https://www.pythoncheatsheet.org/
+        2. https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
         
         
 ** DataStructures:**
